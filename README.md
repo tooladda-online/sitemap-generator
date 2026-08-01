@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🗺️ Sitemap Generator
+# 📊 Sitemap Generator
 
 ### Use Sitemap Generator free on ToolAdda — quick, accurate, and browser-based.
 
 [![Visit Sitemap Generator](https://img.shields.io/badge/Visit%20Sitemap%20Generator-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tooladda.online/sitemap-generator.html)
 [![ToolAdda Home](https://img.shields.io/badge/ToolAdda.online-8b5cf6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIi8+PC9zdmc+)](https://tooladda.online)
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://tooladda.online/sitemap-generator.html)
-[![Category](https://img.shields.io/badge/SEO%20Tools-f59e0b?style=for-the-badge)](#)
+[![Category](https://img.shields.io/badge/Marketing%20Tools-f59e0b?style=for-the-badge)](#)
 
 **Free online XML sitemap generator — paste your website URLs, set priority, changefreq, and lastmod, then download a valid sitemap.xml for Google Search Console instantly in your browser.**
 
@@ -33,7 +33,7 @@
 - ✅ Free Sitemap Generator — no signup required
 - ✅ Runs fast in your browser on desktop and mobile
 - ✅ Private by design — built for everyday use on ToolAdda
-- ✅ Part of ToolAdda's SEO Tools collection
+- ✅ Part of ToolAdda's Marketing Tools collection
 - ✅ Modern, clean interface with no clutter
 
 ---
@@ -58,7 +58,7 @@ Whether you found this page on GitHub or through a search engine, the live tool 
 https://tooladda.online/sitemap-generator.html
 ```
 
-**Category:** SEO Tools
+**Category:** Marketing Tools
 
 ---
 
